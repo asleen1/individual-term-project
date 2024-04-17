@@ -1,0 +1,18 @@
+		body {
+			font-family: Arial, sans-serif;
+			background-color:lavender
+		}
+		.property-image {
+			width: 100%;
+			height: auto;
+		}
+		.property-info {
+			margin-top: 20px;
+		}
+		.property-info h2 {
+			margin-top: 0;
+		}
+		img {
+			width: 60%;
+		}
+	

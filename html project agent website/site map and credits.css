@@ -1,0 +1,32 @@
+
+		body {
+			font-family: Arial, sans-serif;
+			background-color: lavender;
+		}
+		.sitemap {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+		}
+		.sitemap li {
+			margin-bottom: 10px;
+		}
+		.sitemap a {
+			text-decoration: none;
+			color: #0066cc;
+		}
+		.credits {
+			margin-top: 30px;
+		}
+		.credits h3 {
+			margin-top: 0;
+		}
+		.credits ul {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+		}
+		.credits li {
+			margin-bottom: 5px;
+		}
+	
